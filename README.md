@@ -1,5 +1,5 @@
 ## API for processing data and predict voucher amount
-To run it (will run tests, pipeline and will start api):
+To run it (will run tests, pipeline and will start api) firstly download `data.parquet.gzip` to the root folder of the project and then run:
 
 `docker-compose up`
 
